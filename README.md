@@ -1,4 +1,4 @@
-# MScBA_Thesis
+# MScBA_Thesis - Gender bias with word embedding on the full Greek Wikipedia page
 This thesis goal was to identify gender bias, using a model (with gensim's word2vec) that was trained on the full corpus of the Greek Wikipedia page.
 
 The "Why":
